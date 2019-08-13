@@ -14,6 +14,7 @@ A curated list of awesome Python code formatters
 + [eradicate](https://github.com/myint/eradicate) -- Removes commented-out code from Python files.
 + [isort](https://github.com/timothycrosley/isort) -- A Python utility / library to sort imports.
 + [pyupgrade](https://github.com/asottile/pyupgrade) -- A tool to automatically upgrade syntax for newer versions of the language.
++ [reindent.py](https://github.com/python/cpython/blob/master/Tools/scripts/reindent.py) -- Change Python (.py) files to use 4-space indents and no hard tab characters.
 + [unify](https://github.com/myint/unify) -- Modifies strings to all use the same quote where possible.
 + [yapf](https://github.com/google/yapf) -- Yet another Python code formatter from Google.
 
