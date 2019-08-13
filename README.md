@@ -11,6 +11,7 @@ A curated list of awesome Python code formatters
 + [black](https://github.com/python/black) -- The uncompromising Python code formatter.
 + [decrapify](https://github.com/craigds/decrapify) -- Some scripts that use pybowler.io for refactoring Python code.
 + [docformatter](https://github.com/myint/docformatter) -- Formats docstrings to follow PEP 257.
++ [eradicate](https://github.com/myint/eradicate) -- Removes commented-out code from Python files.
 + [isort](https://github.com/timothycrosley/isort) -- A Python utility / library to sort imports.
 + [pyupgrade](https://github.com/asottile/pyupgrade) -- A tool to automatically upgrade syntax for newer versions of the language.
 + [unify](https://github.com/myint/unify) -- Modifies strings to all use the same quote where possible.
