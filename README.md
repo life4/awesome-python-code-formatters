@@ -4,6 +4,7 @@ A curated list of awesome Python code formatters
 
 ## Code formatters
 
++ [2to3](https://docs.python.org/2/library/2to3.html) -- Automated Python 2 to 3 code translation.
 + [add-trailing-comma](https://github.com/asottile/add-trailing-comma) -- A tool to automatically add trailing commas to calls and literals.
 + [autoflake](https://github.com/myint/autoflake) -- Removes unused imports and unused variables as reported by pyflakes.
 + [autopep8](https://github.com/hhatto/autopep8) -- A tool that automatically formats Python code to conform to the PEP 8 style guide.
@@ -21,3 +22,9 @@ A curated list of awesome Python code formatters
 + [blacken-docs](https://github.com/asottile/blacken-docs) -- Run `black` on python code blocks in documentation files.
 + [jupyterlab_code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) -- A universal code formatter for JupyterLab.
 + [pyformat](https://github.com/myint/pyformat) -- wrapper around `autopep8`, `autoflake`, `docformatter`, and `unify`.
+
+## Libraries
+
++ [bowler](https://github.com/facebookincubator/Bowler) -- Safe code refactoring for modern Python.
++ [fissix](https://github.com/jreese/fissix) -- backport of [lib2to3](https://docs.python.org/2/library/2to3.html), with enhancements.
++ [rope](https://github.com/python-rope/rope) -- a python refactoring library.
