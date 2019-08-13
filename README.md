@@ -8,11 +8,12 @@ A curated list of awesome Python code formatters
 + [autoflake](https://github.com/myint/autoflake) -- Removes unused imports and unused variables as reported by pyflakes.
 + [autopep8](https://github.com/hhatto/autopep8) -- A tool that automatically formats Python code to conform to the PEP 8 style guide.
 + [black](https://github.com/python/black) -- The uncompromising Python code formatter.
++ [decrapify](https://github.com/craigds/decrapify) -- Some scripts that use pybowler.io for refactoring Python code.
 + [docformatter](https://github.com/myint/docformatter) -- Formats docstrings to follow PEP 257.
 + [isort](https://github.com/timothycrosley/isort) -- A Python utility / library to sort imports.
 + [pyupgrade](https://github.com/asottile/pyupgrade) -- A tool to automatically upgrade syntax for newer versions of the language.
-+ [yapf](https://github.com/google/yapf) -- Yet another Python code formatter from Google.
 + [unify](https://github.com/myint/unify) -- Modifies strings to all use the same quote where possible.
++ [yapf](https://github.com/google/yapf) -- Yet another Python code formatter from Google.
 
 ## Improvements and wrappers
 
