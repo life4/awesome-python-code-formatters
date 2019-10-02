@@ -17,6 +17,8 @@ A curated list of awesome Python code formatters
 + [reindent.py](https://github.com/python/cpython/blob/master/Tools/scripts/reindent.py) -- Change Python (.py) files to use 4-space indents and no hard tab characters.
 + [unify](https://github.com/myint/unify) -- Modifies strings to all use the same quote where possible.
 + [yapf](https://github.com/google/yapf) -- Yet another Python code formatter from Google.
++ [Pythoniter](https://github.com/juanantoniofm/pythoniter) -- Online code formatter implemented using Google Appengine. 
++ [Prettier](https://github.com/prettier/prettier) -- Is an opinionated code formatter.
 
 ## Improvements and wrappers
 
