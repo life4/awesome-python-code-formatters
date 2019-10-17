@@ -27,8 +27,9 @@ A curated list of awesome Python code formatters
 + [jupyterlab_code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) -- A universal code formatter for JupyterLab.
 + [pyformat](https://github.com/myint/pyformat) -- wrapper around `autopep8`, `autoflake`, `docformatter`, and `unify`.
 
-## Libraries
+## Libraries and refactoring
 
 + [bowler](https://github.com/facebookincubator/Bowler) -- Safe code refactoring for modern Python.
 + [fissix](https://github.com/jreese/fissix) -- backport of [lib2to3](https://docs.python.org/2/library/2to3.html), with enhancements.
++ [massedit](https://github.com/elmotec/massedit) -- edit text files with Python.
 + [rope](https://github.com/python-rope/rope) -- a python refactoring library.
