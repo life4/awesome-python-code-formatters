@@ -33,3 +33,4 @@ A curated list of awesome Python code formatters
 + [fissix](https://github.com/jreese/fissix) -- backport of [lib2to3](https://docs.python.org/2/library/2to3.html), with enhancements.
 + [massedit](https://github.com/elmotec/massedit) -- edit text files with Python.
 + [rope](https://github.com/python-rope/rope) -- a python refactoring library.
++ [undebt](https://github.com/Yelp/undebt) -- tool for performing massive, automated Python code refactoring.
