@@ -13,12 +13,11 @@ A curated list of awesome Python code formatters
 + [docformatter](https://github.com/myint/docformatter) -- Formats docstrings to follow PEP 257.
 + [eradicate](https://github.com/myint/eradicate) -- Removes commented-out code from Python files.
 + [isort](https://github.com/timothycrosley/isort) -- A Python utility / library to sort imports.
++ [prettier](https://github.com/prettier/prettier) -- An opinionated code formatter, not only for Python.
 + [pyupgrade](https://github.com/asottile/pyupgrade) -- A tool to automatically upgrade syntax for newer versions of the language.
 + [reindent.py](https://github.com/python/cpython/blob/master/Tools/scripts/reindent.py) -- Change Python (.py) files to use 4-space indents and no hard tab characters.
 + [unify](https://github.com/myint/unify) -- Modifies strings to all use the same quote where possible.
 + [yapf](https://github.com/google/yapf) -- Yet another Python code formatter from Google.
-+ [Pythoniter](https://github.com/juanantoniofm/pythoniter) -- Online code formatter implemented using Google Appengine. 
-+ [Prettier](https://github.com/prettier/prettier) -- Is an opinionated code formatter.
 
 ## Improvements and wrappers
 
