@@ -14,6 +14,7 @@ A curated list of awesome Python code formatters
 + [eradicate](https://github.com/myint/eradicate) -- Removes commented-out code from Python files.
 + [isort](https://github.com/timothycrosley/isort) -- A Python utility / library to sort imports.
 + [prettier](https://github.com/prettier/prettier) -- An opinionated code formatter, not only for Python.
++ [pybetter](https://pypi.org/project/pybetter/) -- Tool for fixing trivial problems with your code.
 + [pyupgrade](https://github.com/asottile/pyupgrade) -- A tool to automatically upgrade syntax for newer versions of the language.
 + [reindent.py](https://github.com/python/cpython/blob/master/Tools/scripts/reindent.py) -- Change Python (.py) files to use 4-space indents and no hard tab characters.
 + [star-destroyer](https://github.com/zestyping/star-destroyer) -- Eliminates `import *` from your modules.
