@@ -18,6 +18,7 @@ A curated list of awesome Python code formatters
 + [pyupgrade](https://github.com/asottile/pyupgrade) -- A tool to automatically upgrade syntax for newer versions of the language.
 + [reindent.py](https://github.com/python/cpython/blob/master/Tools/scripts/reindent.py) -- Change Python (.py) files to use 4-space indents and no hard tab characters.
 + [star-destroyer](https://github.com/zestyping/star-destroyer) -- Eliminates `import *` from your modules.
++ [teyit](https://github.com/isidentical/teyit) -- Unittest assertion formatter.
 + [unify](https://github.com/myint/unify) -- Modifies strings to all use the same quote where possible.
 + [yapf](https://github.com/google/yapf) -- Yet another Python code formatter from Google.
 
