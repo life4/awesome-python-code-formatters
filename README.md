@@ -9,6 +9,7 @@ A curated list of awesome Python code formatters
 + [autoflake](https://github.com/myint/autoflake) -- Removes unused imports and unused variables as reported by pyflakes.
 + [autopep8](https://github.com/hhatto/autopep8) -- A tool that automatically formats Python code to conform to the PEP 8 style guide.
 + [black](https://github.com/python/black) -- The uncompromising Python code formatter.
++ [com2ann](https://github.com/ilevkivskyi/com2ann) -- Translates type comments to type annotations.
 + [decrapify](https://github.com/craigds/decrapify) -- Some scripts that use pybowler.io for refactoring Python code.
 + [docformatter](https://github.com/myint/docformatter) -- Formats docstrings to follow PEP 257.
 + [eradicate](https://github.com/myint/eradicate) -- Removes commented-out code from Python files.
@@ -30,6 +31,8 @@ A curated list of awesome Python code formatters
 + [gray](https://github.com/dizballanze/gray) -- wrapper around `isort`, `pyupgrade`, `add-trailing-comma`, and `unify`.
 + [jupyterlab_code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) -- A universal code formatter for JupyterLab.
 + [pyformat](https://github.com/myint/pyformat) -- wrapper around `autopep8`, `autoflake`, `docformatter`, and `unify`.
++ [shed](https://github.com/Zac-HD/shed) -- wrapper around `autoflake`, `black`, `com2ann`, `isort`, `pybetter`, `pyupgrade`, and `teyit`;
+  with fully automatic configuration and `blacken-docs`-inspired support for code in docs files too.
 
 ## Libraries and refactoring
 
