@@ -25,7 +25,7 @@ A curated list of awesome Python code formatters
 + [autoflake](https://github.com/myint/autoflake) -- Removes unused imports and unused variables as reported by pyflakes.
 + [isort](https://github.com/timothycrosley/isort) -- A Python utility / library to sort imports.
 + [pycln](https://github.com/hadialqattan/pycln) -- Removes unused imports.
-+ [star-destroyer](https://github.com/zestyping/star-destroyer) -- Eliminates `import *` from your modules.
++ [reorder-python-imports](https://github.com/asottile/reorder_python_imports) -- Reorders imports.
 + [unimport](https://github.com/hakancelik96/unimport) -- Removes unused imports.
 
 ## Improvements and wrappers
