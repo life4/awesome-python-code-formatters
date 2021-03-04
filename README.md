@@ -22,6 +22,7 @@ A curated list of awesome Python code formatters
 
 ## Imports formatters
 
++ [absolufy-imports](https://github.com/MarcoGorelli/absolufy-imports) -- Convert relative imports to absolute.
 + [autoflake](https://github.com/myint/autoflake) -- Removes unused imports and unused variables as reported by pyflakes.
 + [isort](https://github.com/timothycrosley/isort) -- A Python utility / library to sort imports.
 + [pycln](https://github.com/hadialqattan/pycln) -- Removes unused imports.
