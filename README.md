@@ -6,8 +6,8 @@ A curated list of awesome Python code formatters
 
 + [2to3](https://docs.python.org/2/library/2to3.html) -- Automated Python 2 to 3 code translation.
 + [add-trailing-comma](https://github.com/asottile/add-trailing-comma) -- A tool to automatically add trailing commas to calls and literals.
-+ [auto-typed](https://github.com/JelleZijlstra/autotyper) -- Adds type annotations where possible from the source code.
 + [autopep8](https://github.com/hhatto/autopep8) -- A tool that automatically formats Python code to conform to the PEP 8 style guide.
++ [autotyper](https://github.com/JelleZijlstra/autotyper) -- Adds type annotations where possible inffered from the source code.
 + [black](https://github.com/python/black) -- The uncompromising Python code formatter.
 + [com2ann](https://github.com/ilevkivskyi/com2ann) -- Translates type comments to type annotations.
 + [decrapify](https://github.com/craigds/decrapify) -- Some scripts that use pybowler.io for refactoring Python code.
