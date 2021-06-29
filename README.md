@@ -7,7 +7,6 @@ A curated list of awesome Python code formatters
 + [2to3](https://docs.python.org/2/library/2to3.html) -- Automated Python 2 to 3 code translation.
 + [add-trailing-comma](https://github.com/asottile/add-trailing-comma) -- A tool to automatically add trailing commas to calls and literals.
 + [autopep8](https://github.com/hhatto/autopep8) -- A tool that automatically formats Python code to conform to the PEP 8 style guide.
-+ [autotyper](https://github.com/JelleZijlstra/autotyper) -- Adds type annotations where possible inffered from the source code.
 + [black](https://github.com/python/black) -- The uncompromising Python code formatter.
 + [com2ann](https://github.com/ilevkivskyi/com2ann) -- Translates type comments to type annotations.
 + [decrapify](https://github.com/craigds/decrapify) -- Some scripts that use pybowler.io for refactoring Python code.
@@ -47,3 +46,10 @@ A curated list of awesome Python code formatters
 + [massedit](https://github.com/elmotec/massedit) -- edit text files with Python.
 + [rope](https://github.com/python-rope/rope) -- a python refactoring library.
 + [undebt](https://github.com/Yelp/undebt) -- tool for performing massive, automated Python code refactoring.
+
+## Code generators
+
+This list doesn't contain tools that generate code, type annotations, comments etc. The difference is that code formatters transform your code from one form into another (which should be safe if the tool is stable) while code generators bring something totally new. If you're looking for code generators, check out the following links:
+
++ [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing#helper-tools-to-add-annotations-to-existing-code) for tools to generate type annotations.
++ [hypothesis ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) for generating tests.
