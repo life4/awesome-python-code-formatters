@@ -20,6 +20,8 @@ A curated list of awesome Python code formatters
 + [teyit](https://github.com/isidentical/teyit) -- Unittest assertion formatter.
 + [unify](https://github.com/myint/unify) -- Modifies strings to all use the same quote where possible.
 + [yapf](https://github.com/google/yapf) -- Yet another Python code formatter from Google.
++ [LibCST](https://github.com/Instagram/LibCST) -- LibCST parses Python 3 source code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc). It's useful for building automated refactoring applications and linters.
++ [flynt](https://github.com/ikamensh/flynt) -- A tool to automatically convert old string literal formatting to f-strings.
 
 ## Imports formatters
 
