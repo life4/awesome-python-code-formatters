@@ -56,4 +56,4 @@ A curated list of awesome Python code formatters
 This list doesn't contain tools that generate code, type annotations, comments etc. The difference is that code formatters transform your code from one form into another (which should be safe if the tool is stable) while code generators bring something totally new. If you're looking for code generators, check out the following links:
 
 + [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing#helper-tools-to-add-annotations-to-existing-code) -- tools to generate type annotations.
-+ [awesome-python-testing]( https://github.com/cleder/awesome-python-testing#tools ) -- tools to generate tests.
++ [awesome-python-testing](https://github.com/cleder/awesome-python-testing#tools) -- tools to generate tests.
