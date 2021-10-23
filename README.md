@@ -29,6 +29,7 @@ A curated list of awesome Python code formatters
 + [isort](https://github.com/timothycrosley/isort) -- A Python utility / library to sort imports.
 + [pycln](https://github.com/hadialqattan/pycln) -- Removes unused imports.
 + [reorder-python-imports](https://github.com/asottile/reorder_python_imports) -- Reorders imports.
++ [removestar](https://github.com/asmeurer/removestar) -- Tool to automatically replace `import *` in Python files with explicit imports.
 + [unimport](https://github.com/hakancelik96/unimport) -- Removes unused imports.
 
 ## Improvements and wrappers
@@ -54,5 +55,5 @@ A curated list of awesome Python code formatters
 
 This list doesn't contain tools that generate code, type annotations, comments etc. The difference is that code formatters transform your code from one form into another (which should be safe if the tool is stable) while code generators bring something totally new. If you're looking for code generators, check out the following links:
 
-+ [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing#helper-tools-to-add-annotations-to-existing-code) for tools to generate type annotations.
-+ [hypothesis ghostwriter](https://hypothesis.readthedocs.io/en/latest/ghostwriter.html) for generating tests.
++ [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing#helper-tools-to-add-annotations-to-existing-code) -- tools to generate type annotations.
++ [awesome-python-testing](https://github.com/cleder/awesome-python-testing#tools) -- tools to generate tests.
