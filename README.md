@@ -31,6 +31,7 @@ A curated list of awesome Python code formatters
 + [reorder-python-imports](https://github.com/asottile/reorder_python_imports) -- Reorders imports.
 + [removestar](https://github.com/asmeurer/removestar) -- Tool to automatically replace `import *` in Python files with explicit imports.
 + [unimport](https://github.com/hakancelik96/unimport) -- Removes unused imports.
++ [pyall](https://github.com/hakancelik96/pyall) -- Pyall is a linter that tries to keep the `__all__` in your Python modules always up to date.
 
 ## Improvements and wrappers
 
@@ -50,6 +51,7 @@ A curated list of awesome Python code formatters
 + [rope](https://github.com/python-rope/rope) -- a python refactoring library.
 + [undebt](https://github.com/Yelp/undebt) -- tool for performing massive, automated Python code refactoring.
 + [LibCST](https://github.com/Instagram/LibCST) -- LibCST parses Python 3 source code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc). It's useful for building automated refactoring applications and linters.
++ [django-codemod](https://github.com/browniebroke/django-codemod) -- A tool to help upgrade Django projects to newer version of the framework by automatically fixing deprecations.
 
 ## Code generators
 
