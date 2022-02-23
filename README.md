@@ -12,6 +12,7 @@ A curated list of awesome Python code formatters
 + [decrapify](https://github.com/craigds/decrapify) -- Some scripts that use pybowler.io for refactoring Python code.
 + [docformatter](https://github.com/myint/docformatter) -- Formats docstrings to follow PEP 257.
 + [eradicate](https://github.com/myint/eradicate) -- Removes commented-out code from Python files.
++ [formate](https://github.com/python-formate/formate) -- A wrapper around isort and yapf with a few custom rules.
 + [pep585-upgrade](https://github.com/snok/pep585-upgrade) -- Automatically upgrade your type hints to the new native types implemented in PEP 585.
 + [prettier](https://github.com/prettier/prettier) -- An opinionated code formatter, not only for Python.
 + [pybetter](https://pypi.org/project/pybetter/) -- Tool for fixing trivial problems with your code.
@@ -39,6 +40,7 @@ A curated list of awesome Python code formatters
 + [black-macchiato](https://github.com/wbolster/black-macchiato) -- paints part of your python code black.
 + [blacken-docs](https://github.com/asottile/blacken-docs) -- Run `black` on python code blocks in documentation files.
 + [brunette](https://github.com/odwyersoftware/brunette) -- best practice Python code formatter, wrapper around `black` with improvements.
++ [formate-black](https://github.com/python-formate/formate-black) -- a black integration for formate.
 + [gray](https://github.com/dizballanze/gray) -- wrapper around `isort`, `pyupgrade`, `add-trailing-comma`, and `unify`.
 + [jupyterlab_code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) -- A universal code formatter for JupyterLab.
 + [pyformat](https://github.com/myint/pyformat) -- wrapper around `autopep8`, `autoflake`, `docformatter`, and `unify`.
@@ -53,6 +55,7 @@ A curated list of awesome Python code formatters
 + [undebt](https://github.com/Yelp/undebt) -- tool for performing massive, automated Python code refactoring.
 + [LibCST](https://github.com/Instagram/LibCST) -- LibCST parses Python 3 source code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc). It's useful for building automated refactoring applications and linters.
 + [django-codemod](https://github.com/browniebroke/django-codemod) -- A tool to help upgrade Django projects to newer version of the framework by automatically fixing deprecations.
++ [Refactor](https://github.com/isidentical/refactor) -- AST-based fragmental source code refactoring toolkit
 
 ## Code generators
 
