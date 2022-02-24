@@ -22,6 +22,7 @@ A curated list of awesome Python code formatters
 + [unify](https://github.com/myint/unify) -- Modifies strings to all use the same quote where possible.
 + [yapf](https://github.com/google/yapf) -- Yet another Python code formatter from Google.
 + [flynt](https://github.com/ikamensh/flynt) -- A tool to automatically convert old string literal formatting to f-strings.
++ [ssort](https://github.com/bwhmather/ssort) -- Sorts the contents of python modules so that statements are placed after the things they depend on, but leaves grouping to the programmer. Groups class members by type and enforces topological sorting of methods.
 
 ## Imports formatters
 
