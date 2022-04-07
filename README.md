@@ -20,10 +20,10 @@ A curated list of awesome Python code formatters
 + [pybetter](https://pypi.org/project/pybetter/) -- Tool for fixing trivial problems with your code.
 + [pyupgrade](https://github.com/asottile/pyupgrade) -- A tool to automatically upgrade syntax for newer versions of the language.
 + [reindent.py](https://github.com/python/cpython/blob/master/Tools/scripts/reindent.py) -- Change Python (.py) files to use 4-space indents and no hard tab characters.
++ [ssort](https://github.com/bwhmather/ssort) -- Sorts the contents of python modules so that statements are placed after the things they depend on, but leaves grouping to the programmer. Groups class members by type and enforces topological sorting of methods.
 + [teyit](https://github.com/isidentical/teyit) -- Unittest assertion formatter.
 + [unify](https://github.com/myint/unify) -- Modifies strings to all use the same quote where possible.
 + [yapf](https://github.com/google/yapf) -- Yet another Python code formatter from Google.
-+ [ssort](https://github.com/bwhmather/ssort) -- Sorts the contents of python modules so that statements are placed after the things they depend on, but leaves grouping to the programmer. Groups class members by type and enforces topological sorting of methods.
 
 ## Imports formatters
 
