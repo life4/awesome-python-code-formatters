@@ -18,6 +18,7 @@ A curated list of awesome Python code formatters
 + [pep585-upgrade](https://github.com/snok/pep585-upgrade) -- Automatically upgrade your type hints to the new native types implemented in PEP 585.
 + [prettier](https://github.com/prettier/prettier) -- An opinionated code formatter, not only for Python.
 + [pybetter](https://pypi.org/project/pybetter/) -- Tool for fixing trivial problems with your code.
++ [pyment](https://github.com/dadadel/pyment) -- A tool to format and generate docstrings.
 + [pyupgrade](https://github.com/asottile/pyupgrade) -- A tool to automatically upgrade syntax for newer versions of the language.
 + [reindent.py](https://github.com/python/cpython/blob/master/Tools/scripts/reindent.py) -- Change Python (.py) files to use 4-space indents and no hard tab characters.
 + [ssort](https://github.com/bwhmather/ssort) -- Sorts the contents of python modules so that statements are placed after the things they depend on, but leaves grouping to the programmer. Groups class members by type and enforces topological sorting of methods.
