@@ -13,6 +13,8 @@ A curated list of awesome Python code formatters
 + [docformatter](https://github.com/myint/docformatter) -- Formats docstrings to follow PEP 257.
 + [eradicate](https://github.com/myint/eradicate) -- Removes commented-out code from Python files.
 + [formate](https://github.com/python-formate/formate) -- A wrapper around isort and yapf with a few custom rules.
++ [fix8](https://github.com/PeterJCLaw/fix8) - Automatic fix for Python linting issues found by Flake8.
++ [flynt](https://github.com/ikamensh/flynt) -- A tool to automatically convert old string literal formatting to f-strings.
 + [pep585-upgrade](https://github.com/snok/pep585-upgrade) -- Automatically upgrade your type hints to the new native types implemented in PEP 585.
 + [prettier](https://github.com/prettier/prettier) -- An opinionated code formatter, not only for Python.
 + [pybetter](https://pypi.org/project/pybetter/) -- Tool for fixing trivial problems with your code.
@@ -21,7 +23,6 @@ A curated list of awesome Python code formatters
 + [teyit](https://github.com/isidentical/teyit) -- Unittest assertion formatter.
 + [unify](https://github.com/myint/unify) -- Modifies strings to all use the same quote where possible.
 + [yapf](https://github.com/google/yapf) -- Yet another Python code formatter from Google.
-+ [flynt](https://github.com/ikamensh/flynt) -- A tool to automatically convert old string literal formatting to f-strings.
 + [ssort](https://github.com/bwhmather/ssort) -- Sorts the contents of python modules so that statements are placed after the things they depend on, but leaves grouping to the programmer. Groups class members by type and enforces topological sorting of methods.
 
 ## Imports formatters
