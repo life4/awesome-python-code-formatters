@@ -50,6 +50,7 @@ A curated list of awesome Python code formatters
 
 ## Libraries and refactoring
 
++ [AutoTransform](https://github.com/nathro/AutoTransform) -- AutoTransform is an opensource framework for large-scale code modification.
 + [bowler](https://github.com/facebookincubator/Bowler) -- Safe code refactoring for modern Python.
 + [fissix](https://github.com/jreese/fissix) -- backport of [lib2to3](https://docs.python.org/2/library/2to3.html), with enhancements.
 + [massedit](https://github.com/elmotec/massedit) -- edit text files with Python.
