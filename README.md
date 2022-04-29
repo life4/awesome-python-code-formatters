@@ -58,6 +58,7 @@ A curated list of awesome Python code formatters
 + [undebt](https://github.com/Yelp/undebt) -- tool for performing massive, automated Python code refactoring.
 + [LibCST](https://github.com/Instagram/LibCST) -- LibCST parses Python 3 source code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc). It's useful for building automated refactoring applications and linters.
 + [django-codemod](https://github.com/browniebroke/django-codemod) -- A tool to help upgrade Django projects to newer version of the framework by automatically fixing deprecations.
++ [django-upgrade](https://github.com/adamchainz/django-upgrade) -- Automatically upgrade your Django projects.
 + [Refactor](https://github.com/isidentical/refactor) -- AST-based fragmental source code refactoring toolkit
 
 ## Code generators
