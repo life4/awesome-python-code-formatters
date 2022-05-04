@@ -11,9 +11,9 @@ A curated list of awesome Python code formatters
 + [decrapify](https://github.com/craigds/decrapify) -- Some scripts that use pybowler.io for refactoring Python code.
 + [docformatter](https://github.com/myint/docformatter) -- Formats docstrings to follow PEP 257.
 + [eradicate](https://github.com/myint/eradicate) -- Removes commented-out code from Python files.
-+ [formate](https://github.com/python-formate/formate) -- A wrapper around isort and yapf with a few custom rules.
 + [fix8](https://github.com/PeterJCLaw/fix8) - Automatic fix for Python linting issues found by Flake8.
 + [flynt](https://github.com/ikamensh/flynt) -- A tool to automatically convert old string literal formatting to f-strings.
++ [formate](https://github.com/python-formate/formate) -- A wrapper around isort and yapf with a few custom rules.
 + [prettier](https://github.com/prettier/prettier) -- An opinionated code formatter, not only for Python.
 + [pybetter](https://pypi.org/project/pybetter/) -- Tool for fixing trivial problems with your code.
 + [pyment](https://github.com/dadadel/pyment) -- A tool to format and generate docstrings.
@@ -28,11 +28,11 @@ A curated list of awesome Python code formatters
 + [absolufy-imports](https://github.com/MarcoGorelli/absolufy-imports) -- Convert relative imports to absolute.
 + [autoflake](https://github.com/myint/autoflake) -- Removes unused imports and unused variables as reported by pyflakes.
 + [isort](https://github.com/timothycrosley/isort) -- A Python utility / library to sort imports.
-+ [pycln](https://github.com/hadialqattan/pycln) -- Removes unused imports.
-+ [reorder-python-imports](https://github.com/asottile/reorder_python_imports) -- Reorders imports.
-+ [removestar](https://github.com/asmeurer/removestar) -- Tool to automatically replace `import *` in Python files with explicit imports.
-+ [unimport](https://github.com/hakancelik96/unimport) -- Removes unused imports.
 + [pyall](https://github.com/hakancelik96/pyall) -- Pyall is a linter that tries to keep the `__all__` in your Python modules always up to date.
++ [pycln](https://github.com/hadialqattan/pycln) -- Removes unused imports.
++ [removestar](https://github.com/asmeurer/removestar) -- Tool to automatically replace `import *` in Python files with explicit imports.
++ [reorder-python-imports](https://github.com/asottile/reorder_python_imports) -- Reorders imports.
++ [unimport](https://github.com/hakancelik96/unimport) -- Removes unused imports.
 
 ## Upgrading tools
 
@@ -55,14 +55,14 @@ A curated list of awesome Python code formatters
 
 ## Libraries and refactoring
 
-+ [AutoTransform](https://github.com/nathro/AutoTransform) -- AutoTransform is an opensource framework for large-scale code modification.
++ [autotransform](https://github.com/nathro/AutoTransform) -- AutoTransform is an opensource framework for large-scale code modification.
 + [bowler](https://github.com/facebookincubator/Bowler) -- Safe code refactoring for modern Python.
 + [fissix](https://github.com/jreese/fissix) -- backport of [lib2to3](https://docs.python.org/2/library/2to3.html), with enhancements.
++ [libcst](https://github.com/Instagram/LibCST) -- LibCST parses Python 3 source code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc). It's useful for building automated refactoring applications and linters.
 + [massedit](https://github.com/elmotec/massedit) -- edit text files with Python.
++ [refactor](https://github.com/isidentical/refactor) -- AST-based fragmental source code refactoring toolkit
 + [rope](https://github.com/python-rope/rope) -- a python refactoring library.
 + [undebt](https://github.com/Yelp/undebt) -- tool for performing massive, automated Python code refactoring.
-+ [LibCST](https://github.com/Instagram/LibCST) -- LibCST parses Python 3 source code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc). It's useful for building automated refactoring applications and linters.
-+ [Refactor](https://github.com/isidentical/refactor) -- AST-based fragmental source code refactoring toolkit
 
 ## Code generators
 
