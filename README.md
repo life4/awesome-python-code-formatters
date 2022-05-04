@@ -24,7 +24,7 @@ Formatters that do only one job and do it well.
 + [formate](https://github.com/python-formate/formate): a wrapper around `isort` and `yapf` with a few custom rules.
 + [pybetter](https://pypi.org/project/pybetter/): fixes some trivial problems with your code.
 + [pyment](https://github.com/dadadel/pyment): formats and generates docstrings.
-+ [reindent.py](https://github.com/python/cpython/blob/master/Tools/scripts/reindent.py): change Python (.py) files to use 4-space indents and no hard tab characters.
++ [reindent.py](https://github.com/python/cpython/blob/master/Tools/scripts/reindent.py): changes Python files to use 4-space indents and no hard tab characters.
 + [ssort](https://github.com/bwhmather/ssort): sorts and groups classes, functions, and methods.
 + [teyit](https://github.com/isidentical/teyit): formats unittest assertions.
 + [unify](https://github.com/myint/unify): modifies strings to all use the same quote where possible.
@@ -62,7 +62,7 @@ Wrappers for existing code formatters to make them more accessible.
 + [brunette](https://github.com/odwyersoftware/brunette): wrapper around `black` with improvements.
 + [formate-black](https://github.com/python-formate/formate-black): integrates `black` with `formate`.
 + [gray](https://github.com/dizballanze/gray): wrapper around `isort`, `pyupgrade`, `add-trailing-comma`, and `unify`.
-+ [jupyterlab_code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter): code formatter for JupyterLab.
++ [jupyterlab-code-formatter](https://github.com/ryantam626/jupyterlab_code_formatter): code formatter for JupyterLab.
 + [pyformat](https://github.com/myint/pyformat): wrapper around `autopep8`, `autoflake`, `docformatter`, and `unify`.
 + [shed](https://github.com/Zac-HD/shed): wrapper around `autoflake`, `black`, `com2ann`, `isort`, `pybetter`, `pyupgrade`, and `teyit`.
 
