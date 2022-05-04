@@ -2,28 +2,36 @@
 
 A curated list of awesome Python code formatters
 
-## Code formatters
+## All-in formatters
 
-+ [add-trailing-comma](https://github.com/asottile/add-trailing-comma) -- A tool to automatically add trailing commas to calls and literals.
+Formatters that take care of all your code.
+
 + [autopep8](https://github.com/hhatto/autopep8) -- A tool that automatically formats Python code to conform to the PEP 8 style guide.
 + [black](https://github.com/python/black) -- The uncompromising Python code formatter.
-+ [com2ann](https://github.com/ilevkivskyi/com2ann) -- Translates type comments to type annotations.
++ [prettier](https://github.com/prettier/prettier) -- An opinionated code formatter, not only for Python.
++ [yapf](https://github.com/google/yapf) -- Yet another Python code formatter from Google.
+
+## UNIX-way formatters
+
+Formatters that do only one job and do it well.
+
++ [add-trailing-comma](https://github.com/asottile/add-trailing-comma) -- A tool to automatically add trailing commas to calls and literals.
 + [decrapify](https://github.com/craigds/decrapify) -- Some scripts that use pybowler.io for refactoring Python code.
 + [docformatter](https://github.com/myint/docformatter) -- Formats docstrings to follow PEP 257.
 + [eradicate](https://github.com/myint/eradicate) -- Removes commented-out code from Python files.
 + [fix8](https://github.com/PeterJCLaw/fix8) - Automatic fix for Python linting issues found by Flake8.
 + [flynt](https://github.com/ikamensh/flynt) -- A tool to automatically convert old string literal formatting to f-strings.
-+ [formate](https://github.com/python-formate/formate) -- A wrapper around isort and yapf with a few custom rules.
-+ [prettier](https://github.com/prettier/prettier) -- An opinionated code formatter, not only for Python.
++ [formate](https://github.com/python-formate/formate) -- A wrapper around `isort` and `yapf` with a few custom rules.
 + [pybetter](https://pypi.org/project/pybetter/) -- Tool for fixing trivial problems with your code.
 + [pyment](https://github.com/dadadel/pyment) -- A tool to format and generate docstrings.
 + [reindent.py](https://github.com/python/cpython/blob/master/Tools/scripts/reindent.py) -- Change Python (.py) files to use 4-space indents and no hard tab characters.
 + [ssort](https://github.com/bwhmather/ssort) -- Sorts the contents of python modules so that statements are placed after the things they depend on, but leaves grouping to the programmer. Groups class members by type and enforces topological sorting of methods.
 + [teyit](https://github.com/isidentical/teyit) -- Unittest assertion formatter.
 + [unify](https://github.com/myint/unify) -- Modifies strings to all use the same quote where possible.
-+ [yapf](https://github.com/google/yapf) -- Yet another Python code formatter from Google.
 
 ## Imports formatters
+
+Formatters for import statements.
 
 + [absolufy-imports](https://github.com/MarcoGorelli/absolufy-imports) -- Convert relative imports to absolute.
 + [autoflake](https://github.com/myint/autoflake) -- Removes unused imports and unused variables as reported by pyflakes.
@@ -36,13 +44,18 @@ A curated list of awesome Python code formatters
 
 ## Upgrading tools
 
+Tools to upgrade to newer versions of Python or a framework.
+
 + [2to3](https://docs.python.org/2/library/2to3.html) -- Automated Python 2 to 3 code translation.
++ [com2ann](https://github.com/ilevkivskyi/com2ann) -- Translates type comments to type annotations.
 + [django-codemod](https://github.com/browniebroke/django-codemod) -- A tool to help upgrade Django projects to newer version of the framework by automatically fixing deprecations.
 + [django-upgrade](https://github.com/adamchainz/django-upgrade) -- Automatically upgrade your Django projects.
 + [pep585-upgrade](https://github.com/snok/pep585-upgrade) -- Automatically upgrade your type hints to the new native types implemented in PEP 585.
 + [pyupgrade](https://github.com/asottile/pyupgrade) -- A tool to automatically upgrade syntax for newer versions of the language.
 
 ## Improvements and wrappers
+
+Wrappers for existing code formatters to make them more accessible.
 
 + [black-macchiato](https://github.com/wbolster/black-macchiato) -- paints part of your python code black.
 + [blacken-docs](https://github.com/asottile/blacken-docs) -- Run `black` on python code blocks in documentation files.
@@ -54,6 +67,8 @@ A curated list of awesome Python code formatters
 + [shed](https://github.com/Zac-HD/shed) -- wrapper around `autoflake`, `black`, `com2ann`, `isort`, `pybetter`, `pyupgrade`, and `teyit`; with fully automatic configuration and `blacken-docs`-inspired support for code in docs files too.
 
 ## Libraries and refactoring
+
+If you need to write your own formatter, these are libraries for you.
 
 + [autotransform](https://github.com/nathro/AutoTransform) -- AutoTransform is an opensource framework for large-scale code modification.
 + [bowler](https://github.com/facebookincubator/Bowler) -- Safe code refactoring for modern Python.
