@@ -23,6 +23,7 @@ Formatters that do only one job and do it well.
 + [flynt](https://github.com/ikamensh/flynt): converts old string literal formatting to f-strings.
 + [formate](https://github.com/python-formate/formate): a wrapper around `isort` and `yapf` with a few custom rules.
 + [pybetter](https://pypi.org/project/pybetter/): fixes some trivial problems with your code.
++ [pydocstringformatter](https://github.com/DanielNoord/pydocstringformatter): Automatically format your Python docstrings to conform with PEP 8 and PEP 257.
 + [pyment](https://github.com/dadadel/pyment): formats and generates docstrings.
 + [reindent.py](https://github.com/python/cpython/blob/master/Tools/scripts/reindent.py): changes Python files to use 4-space indents and no hard tab characters.
 + [ssort](https://github.com/bwhmather/ssort): sorts and groups classes, functions, and methods.
