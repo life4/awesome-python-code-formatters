@@ -18,10 +18,13 @@ Formatters that do only one job and do it well.
 + [add-trailing-comma](https://github.com/asottile/add-trailing-comma): adds trailing commas to calls and literals.
 + [decrapify](https://github.com/craigds/decrapify): some scripts that use pybowler.io for refactoring Python code.
 + [docformatter](https://github.com/myint/docformatter): formats docstrings to follow PEP 257.
++ [docstrfmt](https://github.com/LilSpazJoekp/docstrfmt): a tool for automatically formatting reStructuredText in files and Python docstrings in a consistent way.
 + [eradicate](https://github.com/myint/eradicate): removes commented-out code from Python files.
 + [fix8](https://github.com/PeterJCLaw/fix8): fixes some Python linting issues found by Flake8.
 + [flynt](https://github.com/ikamensh/flynt): converts old string literal formatting to f-strings.
 + [formate](https://github.com/python-formate/formate): a wrapper around `isort` and `yapf` with a few custom rules.
++ [kwonly-transformer](https://github.com/Kludex/kwonly-transformer) - Opinionated tool to ensure functions with multiple parameters to have exclusively keyword only parameters.
++ [no-optional](https://github.com/Kludex/no-optional) - Replace `Optional[T]` by `Union[T, None]`.
 + [pybetter](https://pypi.org/project/pybetter/): fixes some trivial problems with your code.
 + [pydocstringformatter](https://github.com/DanielNoord/pydocstringformatter): Automatically format your Python docstrings to conform with PEP 8 and PEP 257.
 + [pyment](https://github.com/dadadel/pyment): formats and generates docstrings.
@@ -42,6 +45,7 @@ Formatters for import statements.
 + [removestar](https://github.com/asmeurer/removestar): replaces `import *` in Python files with explicit imports.
 + [reorder-python-imports](https://github.com/asottile/reorder_python_imports): reorders imports.
 + [unimport](https://github.com/hakancelik96/unimport): removes unused imports.
++ [usort](https://github.com/facebookexperimental/usort): Safe, minimal import sorting for Python projects.
 
 ## Upgrading tools
 
