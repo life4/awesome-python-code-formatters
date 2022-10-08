@@ -1,2 +1,3 @@
 .hypothesis/
 .pytest_cache/
+.dccache
