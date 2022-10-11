@@ -55,7 +55,6 @@ Tools to upgrade to newer versions of Python or a framework.
 + [com2ann](https://github.com/ilevkivskyi/com2ann): translates type comments to type annotations.
 + [django-codemod](https://github.com/browniebroke/django-codemod): upgrades Django projects to newer version of the framework by automatically fixing deprecations.
 + [django-upgrade](https://github.com/adamchainz/django-upgrade): upgrades Django projects.
-+ [pep585-upgrade](https://github.com/snok/pep585-upgrade): upgrades type hints to the new native types implemented in PEP 585.
 + [pyupgrade](https://github.com/asottile/pyupgrade): upgrades syntax for newer versions of the language.
 
 ## Improvements and wrappers
