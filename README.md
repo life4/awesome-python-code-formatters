@@ -52,6 +52,7 @@ Formatters for import statements.
 Tools to upgrade to newer versions of Python or a framework.
 
 + [2to3](https://docs.python.org/2/library/2to3.html): translates Python 2 to 3.
++ [auto-walrus](https://github.com/MarcoGorelli/auto-walrus): automatically use the walrus operator where possible.
 + [com2ann](https://github.com/ilevkivskyi/com2ann): translates type comments to type annotations.
 + [django-codemod](https://github.com/browniebroke/django-codemod): upgrades Django projects to newer version of the framework by automatically fixing deprecations.
 + [django-upgrade](https://github.com/adamchainz/django-upgrade): upgrades Django projects.
