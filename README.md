@@ -68,6 +68,7 @@ Wrappers for existing code formatters to make them more accessible.
 + [formate-black](https://github.com/python-formate/formate-black): integrates `black` with `formate`.
 + [gray](https://github.com/dizballanze/gray): wrapper around `isort`, `pyupgrade`, `add-trailing-comma`, and `unify`.
 + [jupyterlab-code-formatter](https://github.com/ryantam626/jupyterlab_code_formatter): code formatter for JupyterLab.
++ [nbQA](https://github.com/nbQA-dev/nbQA): run `isort`, `pyupgrade`, `mypy`, `pylint`, `flake8`, and more on Jupyter Notebooks.
 + [pyformat](https://github.com/myint/pyformat): wrapper around `autopep8`, `autoflake`, `docformatter`, and `unify`.
 + [shed](https://github.com/Zac-HD/shed): wrapper around `autoflake`, `black`, `com2ann`, `isort`, `pybetter`, `pyupgrade`, and `teyit`.
 
