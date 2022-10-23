@@ -1,7 +1,9 @@
 import re
 from pathlib import Path
+import subprocess
 
-with open("README_TABLE.md") as f:
+subprocess.run("sh ./.activity-badges/run.sh", shell=True)
+with open(".activity-badges/README_TABLE.md") as f:
     lines = []
     for line in f:
         match = re.search(r"github\.com\/(.+?)\)", line)
@@ -11,6 +13,8 @@ with open("README_TABLE.md") as f:
             line = f"|![GitHub last commit](https://img.shields.io/github/commit-activity/y/{match.group(1)})" + line
         elif line.startswith("|-"):
             line = "|-|-" + line
+        elif line.startswith("| | |"):
+            line = "|activity|last commit|package|explanation|\n"
         elif line.startswith("|"):
             line = "||" + line
         lines.append(line)

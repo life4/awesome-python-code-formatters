@@ -1,1 +1,1 @@
-sed -z 's/[:-] / | /g; s/\n\n+/\n\n| | |\n|-|-|\n|/g; s/\n+/|\n|/g; s/\n\n##/|\n\n##/g; ' README.md > README_TABLE.md
+sed -z 's/[:-] / | /g; s/\n\n+/\n\n| | |\n|-|-|\n|/g; s/\n+/|\n|/g; s/\n\n##/|\n\n##/g; ' README.md > .activity-badges/README_TABLE.md

@@ -6,7 +6,7 @@ A curated list of awesome Python code formatters|
 
 Formatters that take care of all your code.
 
-||| | |
+|activity|last commit|package|explanation|
 |-|-|-|-|
 |![GitHub last commit](https://img.shields.io/github/commit-activity/y/hhatto/autopep8)|![GitHub last commit](https://img.shields.io/github/last-commit/hhatto/autopep8)| [autopep8](https://github.com/hhatto/autopep8) | format Python code to conform to the PEP 8 style guide.|
 |![GitHub last commit](https://img.shields.io/github/commit-activity/y/python/black)|![GitHub last commit](https://img.shields.io/github/last-commit/python/black)| [black](https://github.com/python/black) | uncompromising Python code formatter.|
@@ -17,7 +17,7 @@ Formatters that take care of all your code.
 
 Formatters that do only one job and do it well.
 
-||| | |
+|activity|last commit|package|explanation|
 |-|-|-|-|
 |![GitHub last commit](https://img.shields.io/github/commit-activity/y/asottile/add-trailing-comma)|![GitHub last commit](https://img.shields.io/github/last-commit/asottile/add-trailing-comma)| [add-trailing-comma](https://github.com/asottile/add-trailing-comma) | adds trailing commas to calls and literals.|
 |![GitHub last commit](https://img.shields.io/github/commit-activity/y/craigds/decrapify)|![GitHub last commit](https://img.shields.io/github/last-commit/craigds/decrapify)| [decrapify](https://github.com/craigds/decrapify) | some scripts that use pybowler.io for refactoring Python code.|
@@ -41,7 +41,7 @@ Formatters that do only one job and do it well.
 
 Formatters for import statements.
 
-||| | |
+|activity|last commit|package|explanation|
 |-|-|-|-|
 |![GitHub last commit](https://img.shields.io/github/commit-activity/y/MarcoGorelli/absolufy-imports)|![GitHub last commit](https://img.shields.io/github/last-commit/MarcoGorelli/absolufy-imports)| [absolufy-imports](https://github.com/MarcoGorelli/absolufy-imports) | converts relative imports to absolute ones.|
 |![GitHub last commit](https://img.shields.io/github/commit-activity/y/myint/autoflake)|![GitHub last commit](https://img.shields.io/github/last-commit/myint/autoflake)| [autoflake](https://github.com/myint/autoflake) | removes unused imports and unused variables as reported by pyflakes.|
@@ -57,7 +57,7 @@ Formatters for import statements.
 
 Tools to upgrade to newer versions of Python or a framework.
 
-||| | |
+|activity|last commit|package|explanation|
 |-|-|-|-|
 ||| [2to3](https://docs.python.org/2/library/2to3.html) | translates Python 2 to 3.|
 |![GitHub last commit](https://img.shields.io/github/commit-activity/y/MarcoGorelli/auto-walrus)|![GitHub last commit](https://img.shields.io/github/last-commit/MarcoGorelli/auto-walrus)| [auto-walrus](https://github.com/MarcoGorelli/auto-walrus) | automatically use the walrus operator where possible.|
@@ -70,7 +70,7 @@ Tools to upgrade to newer versions of Python or a framework.
 
 Wrappers for existing code formatters to make them more accessible.
 
-||| | |
+|activity|last commit|package|explanation|
 |-|-|-|-|
 |![GitHub last commit](https://img.shields.io/github/commit-activity/y/wbolster/black-macchiato)|![GitHub last commit](https://img.shields.io/github/last-commit/wbolster/black-macchiato)| [black-macchiato](https://github.com/wbolster/black-macchiato) | runs `black` on parts of the code.|
 |![GitHub last commit](https://img.shields.io/github/commit-activity/y/asottile/blacken-docs)|![GitHub last commit](https://img.shields.io/github/last-commit/asottile/blacken-docs)| [blacken-docs](https://github.com/asottile/blacken-docs) | runs `black` on python code blocks in documentation files.|
@@ -86,7 +86,7 @@ Wrappers for existing code formatters to make them more accessible.
 
 If you need to write your own formatter, these are libraries for you.
 
-||| | |
+|activity|last commit|package|explanation|
 |-|-|-|-|
 |![GitHub last commit](https://img.shields.io/github/commit-activity/y/nathro/AutoTransform)|![GitHub last commit](https://img.shields.io/github/last-commit/nathro/AutoTransform)| [autotransform](https://github.com/nathro/AutoTransform) | framework for large-scale code modification.|
 |![GitHub last commit](https://img.shields.io/github/commit-activity/y/facebookincubator/Bowler)|![GitHub last commit](https://img.shields.io/github/last-commit/facebookincubator/Bowler)| [bowler](https://github.com/facebookincubator/Bowler) | safe code refactoring for modern Python.|
@@ -101,7 +101,7 @@ If you need to write your own formatter, these are libraries for you.
 
 This list doesn't contain tools that generate code, type annotations, comments etc. The difference is that code formatters transform your code from one form into another (which should be safe if the tool is stable) while code generators bring something totally new. If you're looking for code generators, check out the following links:
 
-||| | |
+|activity|last commit|package|explanation|
 |-|-|-|-|
 |![GitHub last commit](https://img.shields.io/github/commit-activity/y/typeddjango/awesome-python-typing#helper-tools-to-add-annotations-to-existing-code)|![GitHub last commit](https://img.shields.io/github/last-commit/typeddjango/awesome-python-typing#helper-tools-to-add-annotations-to-existing-code)| [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing#helper-tools-to-add-annotations-to-existing-code) | tools to generate type annotations.|
 |![GitHub last commit](https://img.shields.io/github/commit-activity/y/cleder/awesome-python-testing#tools)|![GitHub last commit](https://img.shields.io/github/last-commit/cleder/awesome-python-testing#tools)| [awesome-python-testing](https://github.com/cleder/awesome-python-testing#tools) | tools to generate tests.
