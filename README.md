@@ -53,10 +53,10 @@ Formatters for import statements.
 Tools to upgrade to newer versions of Python or a framework.
 
 + [2to3](https://docs.python.org/2/library/2to3.html): translates Python 2 to 3.
++ [auto-walrus](https://github.com/MarcoGorelli/auto-walrus): automatically use the walrus operator where possible.
 + [com2ann](https://github.com/ilevkivskyi/com2ann): translates type comments to type annotations.
 + [django-codemod](https://github.com/browniebroke/django-codemod): upgrades Django projects to newer version of the framework by automatically fixing deprecations.
 + [django-upgrade](https://github.com/adamchainz/django-upgrade): upgrades Django projects.
-+ [pep585-upgrade](https://github.com/snok/pep585-upgrade): upgrades type hints to the new native types implemented in PEP 585.
 + [pyupgrade](https://github.com/asottile/pyupgrade): upgrades syntax for newer versions of the language.
 
 ## Improvements and wrappers
@@ -69,6 +69,7 @@ Wrappers for existing code formatters to make them more accessible.
 + [formate-black](https://github.com/python-formate/formate-black): integrates `black` with `formate`.
 + [gray](https://github.com/dizballanze/gray): wrapper around `isort`, `pyupgrade`, `add-trailing-comma`, and `unify`.
 + [jupyterlab-code-formatter](https://github.com/ryantam626/jupyterlab_code_formatter): code formatter for JupyterLab.
++ [nbQA](https://github.com/nbQA-dev/nbQA): run `isort`, `pyupgrade`, `mypy`, `pylint`, `flake8`, and more on Jupyter Notebooks.
 + [pyformat](https://github.com/myint/pyformat): wrapper around `autopep8`, `autoflake`, `docformatter`, and `unify`.
 + [shed](https://github.com/Zac-HD/shed): wrapper around `autoflake`, `black`, `com2ann`, `isort`, `pybetter`, `pyupgrade`, and `teyit`.
 
