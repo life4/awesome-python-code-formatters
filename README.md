@@ -82,6 +82,7 @@ If you need to write your own formatter, these are libraries for you.
 + [massedit](https://github.com/elmotec/massedit): edit text files with Python.
 + [refactor](https://github.com/isidentical/refactor): AST-based fragmental source code refactoring toolkit.
 + [rope](https://github.com/python-rope/rope): refactoring library.
++ [semgrep](https://github.com/returntocorp/semgrep): like grep but for code. Supports [--autofix](https://semgrep.dev/docs/writing-rules/rule-syntax/#fix) flag for simple replacement of matched code.
 
 ## Code generators
 
