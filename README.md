@@ -28,7 +28,6 @@ Formatters that do only one job and do it well.
 + [pybetter](https://pypi.org/project/pybetter/): fixes some trivial problems with your code.
 + [pydocstringformatter](https://github.com/DanielNoord/pydocstringformatter): Automatically format your Python docstrings to conform with PEP 8 and PEP 257.
 + [pyment](https://github.com/dadadel/pyment): formats and generates docstrings.
-+ [reindent.py](https://github.com/python/cpython/blob/master/Tools/scripts/reindent.py): changes Python files to use 4-space indents and no hard tab characters.
 + [ssort](https://github.com/bwhmather/ssort): sorts and groups classes, functions, and methods.
 + [teyit](https://github.com/isidentical/teyit): formats unittest assertions.
 + [unify](https://github.com/myint/unify): modifies strings to all use the same quote where possible.
@@ -83,7 +82,6 @@ If you need to write your own formatter, these are libraries for you.
 + [massedit](https://github.com/elmotec/massedit): edit text files with Python.
 + [refactor](https://github.com/isidentical/refactor): AST-based fragmental source code refactoring toolkit.
 + [rope](https://github.com/python-rope/rope): refactoring library.
-+ [undebt](https://github.com/Yelp/undebt): tool for performing massive, automated Python code refactoring.
 
 ## Code generators
 
