@@ -30,7 +30,7 @@ Formatters that do only one job and do it well.
 + [pyment](https://github.com/dadadel/pyment): formats and generates docstrings.
 + [remove-print-statements](https://github.com/dhruvmanila/remove-print-statements): A tool (and pre-commit hook) to remove print statements from your Python project.
 + [ssort](https://github.com/bwhmather/ssort): sorts and groups classes, functions, and methods.
-+ [Tornado Async Transformer](https://github.com/zhammer/tornado-async-transformer): https://github.com/zhammer/tornado-async-transformer.
++ [Tornado Async Transformer](https://github.com/zhammer/tornado-async-transformer): A libcst transformer for updating tornado `@gen.coroutine` syntax to python3.5+ native `async`/`await`.
 + [teyit](https://github.com/isidentical/teyit): formats unittest assertions.
 + [unify](https://github.com/myint/unify): modifies strings to all use the same quote where possible.
 
