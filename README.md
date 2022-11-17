@@ -23,12 +23,14 @@ Formatters that do only one job and do it well.
 + [fix8](https://github.com/PeterJCLaw/fix8): fixes some Python linting issues found by Flake8.
 + [flynt](https://github.com/ikamensh/flynt): converts old string literal formatting to f-strings.
 + [formate](https://github.com/python-formate/formate): a wrapper around `isort` and `yapf` with a few custom rules.
-+ [kwonly-transformer](https://github.com/Kludex/kwonly-transformer) - Opinionated tool to ensure functions with multiple parameters to have exclusively keyword only parameters.
-+ [no-optional](https://github.com/Kludex/no-optional) - Replace `Optional[T]` by `Union[T, None]`.
++ [kwonly-transformer](https://github.com/Kludex/kwonly-transformer): Opinionated tool to ensure functions with multiple parameters to have exclusively keyword only parameters.
++ [no-optional](https://github.com/Kludex/no-optional): Replace `Optional[T]` by `Union[T, None]`.
 + [pybetter](https://pypi.org/project/pybetter/): fixes some trivial problems with your code.
 + [pydocstringformatter](https://github.com/DanielNoord/pydocstringformatter): Automatically format your Python docstrings to conform with PEP 8 and PEP 257.
 + [pyment](https://github.com/dadadel/pyment): formats and generates docstrings.
++ [remove-print-statements](https://github.com/dhruvmanila/remove-print-statements): A tool (and pre-commit hook) to remove print statements from your Python project.
 + [ssort](https://github.com/bwhmather/ssort): sorts and groups classes, functions, and methods.
++ [Tornado Async Transformer](https://github.com/zhammer/tornado-async-transformer): A libcst transformer for updating tornado `@gen.coroutine` syntax to python3.5+ native `async`/`await`.
 + [teyit](https://github.com/isidentical/teyit): formats unittest assertions.
 + [unify](https://github.com/myint/unify): modifies strings to all use the same quote where possible.
 
@@ -78,6 +80,7 @@ If you need to write your own formatter, these are libraries for you.
 + [autotransform](https://github.com/nathro/AutoTransform): framework for large-scale code modification.
 + [bowler](https://github.com/facebookincubator/Bowler): safe code refactoring for modern Python.
 + [fissix](https://github.com/jreese/fissix): backport of [lib2to3](https://docs.python.org/2/library/2to3.html), with enhancements.
++ [importlab](https://github.com/google/importlab): A library that automatically infers dependencies for Python files. Importlab's main use case is to work with static analysis tools that process one file at a time, ensuring that a file's dependencies are analysed before it is.
 + [libcst](https://github.com/Instagram/LibCST): parses Python code as a CST tree that keeps all formatting details (comments, whitespaces, parentheses, etc).
 + [massedit](https://github.com/elmotec/massedit): edit text files with Python.
 + [refactor](https://github.com/isidentical/refactor): AST-based fragmental source code refactoring toolkit.
