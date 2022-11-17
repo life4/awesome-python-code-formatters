@@ -23,11 +23,12 @@ Formatters that do only one job and do it well.
 + [fix8](https://github.com/PeterJCLaw/fix8): fixes some Python linting issues found by Flake8.
 + [flynt](https://github.com/ikamensh/flynt): converts old string literal formatting to f-strings.
 + [formate](https://github.com/python-formate/formate): a wrapper around `isort` and `yapf` with a few custom rules.
-+ [kwonly-transformer](https://github.com/Kludex/kwonly-transformer) - Opinionated tool to ensure functions with multiple parameters to have exclusively keyword only parameters.
-+ [no-optional](https://github.com/Kludex/no-optional) - Replace `Optional[T]` by `Union[T, None]`.
++ [kwonly-transformer](https://github.com/Kludex/kwonly-transformer): Opinionated tool to ensure functions with multiple parameters to have exclusively keyword only parameters.
++ [no-optional](https://github.com/Kludex/no-optional): Replace `Optional[T]` by `Union[T, None]`.
 + [pybetter](https://pypi.org/project/pybetter/): fixes some trivial problems with your code.
 + [pydocstringformatter](https://github.com/DanielNoord/pydocstringformatter): Automatically format your Python docstrings to conform with PEP 8 and PEP 257.
 + [pyment](https://github.com/dadadel/pyment): formats and generates docstrings.
++ [remove-print-statements](https://github.com/dhruvmanila/remove-print-statements): A tool (and pre-commit hook) to remove print statements from your Python project.
 + [ssort](https://github.com/bwhmather/ssort): sorts and groups classes, functions, and methods.
 + [teyit](https://github.com/isidentical/teyit): formats unittest assertions.
 + [unify](https://github.com/myint/unify): modifies strings to all use the same quote where possible.
