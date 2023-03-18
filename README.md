@@ -8,7 +8,6 @@ Formatters that take care of all your code.
 
 + [autopep8](https://github.com/hhatto/autopep8): format Python code to conform to the PEP 8 style guide.
 + [black](https://github.com/python/black): uncompromising Python code formatter.
-+ [prettier](https://github.com/prettier/prettier): opinionated code formatter, not only for Python.
 + [yapf](https://github.com/google/yapf): yet another Python code formatter from Google.
 
 ## UNIX-way formatters
