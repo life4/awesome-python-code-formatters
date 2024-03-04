@@ -8,6 +8,7 @@ Formatters that take care of all your code.
 
 + [autopep8](https://github.com/hhatto/autopep8): format Python code to conform to the PEP 8 style guide.
 + [black](https://github.com/python/black): uncompromising Python code formatter.
++ [ruff](https://github.com/astral-sh/ruff): fast Rust-powered linter and code formatter, for Python. The formatter is 100% compatible with Black.
 + [yapf](https://github.com/google/yapf): yet another Python code formatter from Google.
 
 ## UNIX-way formatters
