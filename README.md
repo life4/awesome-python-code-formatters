@@ -28,7 +28,6 @@ Formatters that do only one job and do it well.
 + [pybetter](https://pypi.org/project/pybetter/): fixes some trivial problems with your code.
 + [pydocstringformatter](https://github.com/DanielNoord/pydocstringformatter): Automatically format your Python docstrings to conform with PEP 8 and PEP 257.
 + [pyment](https://github.com/dadadel/pyment): formats and generates docstrings.
-+ [remove-print-statements](https://github.com/dhruvmanila/remove-print-statements): A tool (and pre-commit hook) to remove print statements from your Python project.
 + [ssort](https://github.com/bwhmather/ssort): sorts and groups classes, functions, and methods.
 + [Tornado Async Transformer](https://github.com/zhammer/tornado-async-transformer): A libcst transformer for updating tornado `@gen.coroutine` syntax to python3.5+ native `async`/`await`.
 + [teyit](https://github.com/isidentical/teyit): formats unittest assertions.
@@ -38,7 +37,6 @@ Formatters that do only one job and do it well.
 
 Formatters for import statements.
 
-+ [absolufy-imports](https://github.com/MarcoGorelli/absolufy-imports): converts relative imports to absolute ones.
 + [autoflake](https://github.com/myint/autoflake): removes unused imports and unused variables as reported by pyflakes.
 + [isort](https://github.com/timothycrosley/isort): sorts imports.
 + [pyall](https://github.com/hakancelik96/pyall): keeps the `__all__` list always up to date.
