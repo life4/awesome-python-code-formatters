@@ -17,7 +17,7 @@ Formatters that do only one job and do it well.
 
 + [add-trailing-comma](https://github.com/asottile/add-trailing-comma): adds trailing commas to calls and literals.
 + [decrapify](https://github.com/craigds/decrapify): some scripts that use pybowler.io for refactoring Python code.
-+ [docformatter](https://github.com/myint/docformatter): formats docstrings to follow PEP 257.
++ [docformatter](https://github.com/PyCQA/docformatter): formats docstrings to follow PEP 257.
 + [docstrfmt](https://github.com/LilSpazJoekp/docstrfmt): a tool for automatically formatting reStructuredText in files and Python docstrings in a consistent way.
 + [eradicate](https://github.com/myint/eradicate): removes commented-out code from Python files.
 + [fix8](https://github.com/PeterJCLaw/fix8): fixes some Python linting issues found by Flake8.
