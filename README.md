@@ -16,6 +16,7 @@ Formatters that take care of all your code.
 Formatters that do only one job and do it well.
 
 + [add-trailing-comma](https://github.com/asottile/add-trailing-comma): adds trailing commas to calls and literals.
++ [Blue](https://github.com/grantjenks/blue): blue is a somewhat less uncompromising code formatter than black, the OG of Python formatters.
 + [decrapify](https://github.com/craigds/decrapify): some scripts that use pybowler.io for refactoring Python code.
 + [docformatter](https://github.com/PyCQA/docformatter): formats docstrings to follow PEP 257.
 + [docstrfmt](https://github.com/LilSpazJoekp/docstrfmt): a tool for automatically formatting reStructuredText in files and Python docstrings in a consistent way.
