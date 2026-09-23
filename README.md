@@ -26,6 +26,7 @@ Formatters that do only one job and do it well.
 + [kwonly-transformer](https://github.com/Kludex/kwonly-transformer): Opinionated tool to ensure functions with multiple parameters to have exclusively keyword only parameters.
 + [no-optional](https://github.com/Kludex/no-optional): Replace `Optional[T]` by `Union[T, None]`.
 + [pybetter](https://pypi.org/project/pybetter/): fixes some trivial problems with your code.
++ [pydocformatter](https://github.com/pallgeuer/pydocformatter): rule-based formatter and linter for Python docstrings and comments.
 + [pydocstringformatter](https://github.com/DanielNoord/pydocstringformatter): Automatically format your Python docstrings to conform with PEP 8 and PEP 257.
 + [pyment](https://github.com/dadadel/pyment): formats and generates docstrings.
 + [ssort](https://github.com/bwhmather/ssort): sorts and groups classes, functions, and methods.
